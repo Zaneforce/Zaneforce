@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Zaneforce
-- 👀 I’m interested in in software development, game development, and cutting-edge technologies.
+👋 Hi, I’m @Zaneforce
+👀 I’m interested in in software development, game development, and cutting-edge technologies.
       I love exploring new frameworks and building innovative projects.
-- 🌱 I’m currently learning:
+🌱 I’m currently learning:
     - Full-stack web development (HTML, CSS, JavaScript, Flask, MySQL)
     - Game development with Unity and C#
     - UI/UX design principles
     - Cloud computing and networking
-- 💞️ I’m looking to collaborate on web applications, game projects, and any innovative software that enhances productivity or user experience.
+💞️ I’m looking to collaborate on web applications, game projects, and any innovative software that enhances productivity or user experience.
 
 
 <!---
