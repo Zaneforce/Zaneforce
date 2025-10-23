@@ -2,7 +2,7 @@
 - 👀 I’m interested in in software development, game development, and cutting-edge technologies.
       I love exploring new frameworks and building innovative projects.
 - 🌱 I’m currently learning:
-    - Full-stack web development (HTML, CSS, JavaScript, Flask, MySQL)
+    - Full-stack web development (Next js, Node.js, React, HTML, CSS, JavaScript, Flask, MySQL)
     - Game development with Unity and C#
     - UI/UX design principles
     - Cloud computing and networking
